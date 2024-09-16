@@ -1,4 +1,4 @@
-## VaultWise <img height="25px" style="background-color= #5b0c0c;" src="https://github.com/Vault-Wise/Site_institucional/blob/main/public/css/imagens/logosemfundo.png">
+## VaultWise <img height="25px" style="background-color= #5b0c0c;" src="https://github.com/Vault-Wise/Site_institucional/blob/main/public/css/imagens/logoComFundo.png">
 
 <p>Em virtude do problema da carência de tecnologias para o monitoramento de caixas eletrônicos, criamos a <b>VaultWise</b> um projeto 
   com o fundamento de desenvolver uma aplicação para ajudar o acompanhamento de componentes dos servidores de caixas</p>
