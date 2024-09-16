@@ -28,6 +28,5 @@ Nosso projeto é dedicado ao controle de componentes de caixas eletrônicos. Sen
 
 ![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow) 
 
-Equipe Atual - Bruna Reginato, Enzo Bizeli, Gustavo Moraes, Felipe Patroni, Pedro Augusto, Vitor Hideo
-
-<sub> Copyright ©️ 2024 - Bruna Reginato, Enzo Bizeli, Gustavo Moraes, Felipe Patroni, Pedro Augusto, Vitor Hideo </sub>
+Equipe Atual - Guilherme Passini, Gustavo Presilli, Marcela Gonçalves, Nicolas Reis, Pedro Augusto
+<sub> Copyright ©️ 2024 - Guilherme Passini, Gustavo Presilli, Marcela Gonçalves, Nicolas Reis, Pedro Augusto </sub>
