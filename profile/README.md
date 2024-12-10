@@ -26,7 +26,7 @@ Nosso projeto é dedicado ao controle de componentes de caixas eletrônicos. Sen
 
 <br>
 
-![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow) 
+![Status](https://img.shields.io/badge/Status_do_projeto-Concluido-darkgreen) 
 
 Equipe Atual - Guilherme Passini, Gustavo Presilli, Marcela Gonçalves, Nicolas Reis, Pedro Augusto
 <sub> Copyright ©️ 2024 - Guilherme Passini, Gustavo Presilli, Marcela Gonçalves, Nicolas Reis, Pedro Augusto </sub>
